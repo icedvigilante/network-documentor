@@ -1,0 +1,16 @@
+.ip-inputs {
+    margin-left: 0.1rem;
+    margin-right: 0.1rem;
+    margin-top: 0.25rem;
+}
+
+.ip-divider {
+    padding-top: 1.5%;
+}
+#access-method-details {
+display: none;
+}
+
+#device-add-form {
+    display: none;
+}
